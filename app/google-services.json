@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64575397446",
+    "firebase_url": "https://androtweet-n.firebaseio.com",
+    "project_id": "androtweet-n",
+    "storage_bucket": "androtweet-n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64575397446:android:43ac01d4aba401cf",
+        "android_client_info": {
+          "package_name": "com.zsk.androtweet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64575397446-g4us8vcrl9mjf4bhgiv3bdung6sgl2a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zsk.androtweet2",
+            "certificate_hash": "6825ed1e0e9bd9d40bf096bdab9832e7f30a0b24"
+          }
+        },
+        {
+          "client_id": "64575397446-pjrtmhantfu3s7c0rootj8lov2h7jtc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsm0uEbKHFlIahVADRb1TR8b82HCLYKFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64575397446-pjrtmhantfu3s7c0rootj8lov2h7jtc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
