@@ -1,0 +1,839 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/61057460976eac15b4123c191bd1449f/AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:18:1-37:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:18:1-35:12
+MERGED from [com.firebaseui:firebase-ui-database:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-3.1.0.aar/5c801ae401af859b3dd7a80bad60d9db/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/85c4a18c428f28f24a352b299e561c88/AndroidManifest.xml:2:1-6:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:2:1-76:12
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/c2789ea1efc2c605fc3aa41149780630/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/f6621d65b7e58a253567e9875351e6f7/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:16:1-33:12
+MERGED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4fd07d777fd99c7205579bd59adb2f49/AndroidManifest.xml:17:1-31:12
+MERGED from [com.firebaseui:firebase-ui-common:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-3.1.0.aar/9ffd371a50d6c9b74153a866b744caed/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1a56429cbf5434dd6a893e404a8790fa/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2117412cb8de19fbedcb562b86b7cde3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45905c1f717bffc5ce14c7e66fa689d0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/adda03d1d704fb9bb40548bc0365cd4c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/62095be5a807ff4b04bc0b3922f8ec81/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4be11e036b57010a34d7d9be0329da2c/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.6.0.aar/5f8635f187c57e93d8489a71819ed686/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/6097d66d049258c2b295d14baa9f393e/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/cad130c2e230909682cf7d9f2dc27099/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/55fd22a454515c2863945eff94946555/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/afa0748443629cde5713b3b777a8c1ef/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/9b3cecec1234cd8f168b9970fe09b953/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/446c699cc96267faf54c0eb660be8314/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/50fd57224e38f38b51afd90b1a3f34ab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d9ffb5e9609f2aa5f108c07117423f45/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f0bf339ca258395311e3e91152909f72/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5e91f5fe5a50dd716de4972a1cfd5a4d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/464a0f1fa4ee1322c421986b1ca003f1/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:17:1-30:12
+MERGED from [com.daimajia.swipelayout:library:1.2.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/library-1.2.0.aar/575a220ebf9b3701bfec5f998c569741/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/b36593c0490560612178fd1eb534e05e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.7.aar/4ef9b6a6712bb8dddc51ba3267f5988d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mikepenz:materialdrawer:6.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/materialdrawer-6.0.0.aar/1a7b837aff53daa628e673827f95a232/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/19a2214ed4113916d271da9eab1da167/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.6.0.aar/6127f495824c38e1177a3fc45d65fdf2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/beta-1.2.4.aar/0fde114785100303420fb32b29f0038d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.16.aar/2a5cbe06cd1c95948e5768c32414253a/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/answers-1.3.12.aar/3c3f4825d4ed2e8db7967303f96a8c8a/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fabric-1.3.16.aar/7fb5a77db2ae8127c0b6f44938fc1fda/AndroidManifest.xml:22:1-33:12
+MERGED from [com.mikepenz:materialize:1.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/materialize-1.1.1.aar/945c5946603e0e60ddae1c1283fecf66/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:2.9.5] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/iconics-core-2.9.5.aar/ecbc5ca28ef5b7fa8a2e3d2d5efe01fa/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:3.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fastadapter-3.0.0.aar/3bea427cbb5f276030fc732150ee2a7e/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-expandable-3.0.0.aar/356b0483acf75d4a1a4d58316fb442e8/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/79765eb42aa80ef96974e564fc934796/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/02839078ad13efcfdaa7795a019d9efa/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/404f3cd4b19c60f648fb1cbf3e28512c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a9543da4da973273942effd504145f9d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/d8f04a48f092d86a83401a21216c7de5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.6.0.aar/adf38c3688560d9cab88c627aed4ffe9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.6.0.aar/30122fcd31bf636650fd9497349678f1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/95144f239601b7f3c62542b9badb7137/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/3c44ba85ffd46831cc9f49ea0675741a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/bc5fd15369630a8f3e8787ba3f3be200/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/c26ca876b928fbc5ba02db2ad10aec7c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/398cfba05af83db78575896593e6d34d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/5cbfe2f835d913c90fac77629ee87237/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:25:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-3.1.0.aar/5c801ae401af859b3dd7a80bad60d9db/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-3.1.0.aar/5c801ae401af859b3dd7a80bad60d9db/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:20:5-66
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.7.aar/4ef9b6a6712bb8dddc51ba3267f5988d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.7.aar/4ef9b6a6712bb8dddc51ba3267f5988d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/beta-1.2.4.aar/0fde114785100303420fb32b29f0038d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/beta-1.2.4.aar/0fde114785100303420fb32b29f0038d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.16.aar/2a5cbe06cd1c95948e5768c32414253a/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.16.aar/2a5cbe06cd1c95948e5768c32414253a/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/answers-1.3.12.aar/3c3f4825d4ed2e8db7967303f96a8c8a/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/answers-1.3.12.aar/3c3f4825d4ed2e8db7967303f96a8c8a/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fabric-1.3.16.aar/7fb5a77db2ae8127c0b6f44938fc1fda/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fabric-1.3.16.aar/7fb5a77db2ae8127c0b6f44938fc1fda/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/61057460976eac15b4123c191bd1449f/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/61057460976eac15b4123c191bd1449f/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/85c4a18c428f28f24a352b299e561c88/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/85c4a18c428f28f24a352b299e561c88/AndroidManifest.xml:5:5-20
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:15:5-74:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:15:5-74:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/c2789ea1efc2c605fc3aa41149780630/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/c2789ea1efc2c605fc3aa41149780630/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:26:5-31:19
+MERGED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4fd07d777fd99c7205579bd59adb2f49/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4fd07d777fd99c7205579bd59adb2f49/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1a56429cbf5434dd6a893e404a8790fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1a56429cbf5434dd6a893e404a8790fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2117412cb8de19fbedcb562b86b7cde3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2117412cb8de19fbedcb562b86b7cde3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45905c1f717bffc5ce14c7e66fa689d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45905c1f717bffc5ce14c7e66fa689d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/adda03d1d704fb9bb40548bc0365cd4c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/adda03d1d704fb9bb40548bc0365cd4c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/62095be5a807ff4b04bc0b3922f8ec81/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/62095be5a807ff4b04bc0b3922f8ec81/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4be11e036b57010a34d7d9be0329da2c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4be11e036b57010a34d7d9be0329da2c/AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.6.0.aar/5f8635f187c57e93d8489a71819ed686/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.6.0.aar/5f8635f187c57e93d8489a71819ed686/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/afa0748443629cde5713b3b777a8c1ef/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/afa0748443629cde5713b3b777a8c1ef/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/9b3cecec1234cd8f168b9970fe09b953/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/9b3cecec1234cd8f168b9970fe09b953/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/446c699cc96267faf54c0eb660be8314/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/446c699cc96267faf54c0eb660be8314/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/50fd57224e38f38b51afd90b1a3f34ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/50fd57224e38f38b51afd90b1a3f34ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d9ffb5e9609f2aa5f108c07117423f45/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d9ffb5e9609f2aa5f108c07117423f45/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f0bf339ca258395311e3e91152909f72/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f0bf339ca258395311e3e91152909f72/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5e91f5fe5a50dd716de4972a1cfd5a4d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5e91f5fe5a50dd716de4972a1cfd5a4d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/464a0f1fa4ee1322c421986b1ca003f1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/464a0f1fa4ee1322c421986b1ca003f1/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/b36593c0490560612178fd1eb534e05e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/b36593c0490560612178fd1eb534e05e/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.7.aar/4ef9b6a6712bb8dddc51ba3267f5988d/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.7.aar/4ef9b6a6712bb8dddc51ba3267f5988d/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/19a2214ed4113916d271da9eab1da167/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/19a2214ed4113916d271da9eab1da167/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.6.0.aar/6127f495824c38e1177a3fc45d65fdf2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.6.0.aar/6127f495824c38e1177a3fc45d65fdf2/AndroidManifest.xml:5:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/beta-1.2.4.aar/0fde114785100303420fb32b29f0038d/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/beta-1.2.4.aar/0fde114785100303420fb32b29f0038d/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.16.aar/2a5cbe06cd1c95948e5768c32414253a/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.16.aar/2a5cbe06cd1c95948e5768c32414253a/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/answers-1.3.12.aar/3c3f4825d4ed2e8db7967303f96a8c8a/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/answers-1.3.12.aar/3c3f4825d4ed2e8db7967303f96a8c8a/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fabric-1.3.16.aar/7fb5a77db2ae8127c0b6f44938fc1fda/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fabric-1.3.16.aar/7fb5a77db2ae8127c0b6f44938fc1fda/AndroidManifest.xml:31:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/79765eb42aa80ef96974e564fc934796/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/79765eb42aa80ef96974e564fc934796/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/02839078ad13efcfdaa7795a019d9efa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/02839078ad13efcfdaa7795a019d9efa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/404f3cd4b19c60f648fb1cbf3e28512c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/404f3cd4b19c60f648fb1cbf3e28512c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a9543da4da973273942effd504145f9d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a9543da4da973273942effd504145f9d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/d8f04a48f092d86a83401a21216c7de5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/d8f04a48f092d86a83401a21216c7de5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.6.0.aar/adf38c3688560d9cab88c627aed4ffe9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.6.0.aar/adf38c3688560d9cab88c627aed4ffe9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.6.0.aar/30122fcd31bf636650fd9497349678f1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.6.0.aar/30122fcd31bf636650fd9497349678f1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/95144f239601b7f3c62542b9badb7137/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/95144f239601b7f3c62542b9badb7137/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/3c44ba85ffd46831cc9f49ea0675741a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/3c44ba85ffd46831cc9f49ea0675741a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/bc5fd15369630a8f3e8787ba3f3be200/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/bc5fd15369630a8f3e8787ba3f3be200/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/c26ca876b928fbc5ba02db2ad10aec7c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/c26ca876b928fbc5ba02db2ad10aec7c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/398cfba05af83db78575896593e6d34d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/398cfba05af83db78575896593e6d34d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/5cbfe2f835d913c90fac77629ee87237/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/5cbfe2f835d913c90fac77629ee87237/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:7:9-38
+activity#com.zsk.androtweet2.SplashScreen
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.zsk.androtweet2.MainActivity
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:21:19-47
+activity#com.zsk.androtweet2.BaseActivity
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:22:19-47
+activity#com.zsk.androtweet2.ManageTwitterAccounts
+ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:23:9-24:57
+	android:parentActivityName
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml:23:19-56
+uses-sdk
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/61057460976eac15b4123c191bd1449f/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/61057460976eac15b4123c191bd1449f/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:23:5-44
+MERGED from [com.firebaseui:firebase-ui-database:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-3.1.0.aar/5c801ae401af859b3dd7a80bad60d9db/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-3.1.0.aar/5c801ae401af859b3dd7a80bad60d9db/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/85c4a18c428f28f24a352b299e561c88/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/85c4a18c428f28f24a352b299e561c88/AndroidManifest.xml:4:5-43
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/c2789ea1efc2c605fc3aa41149780630/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/c2789ea1efc2c605fc3aa41149780630/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/f6621d65b7e58a253567e9875351e6f7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/f6621d65b7e58a253567e9875351e6f7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4fd07d777fd99c7205579bd59adb2f49/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4fd07d777fd99c7205579bd59adb2f49/AndroidManifest.xml:21:5-23:78
+MERGED from [com.firebaseui:firebase-ui-common:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-3.1.0.aar/9ffd371a50d6c9b74153a866b744caed/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-3.1.0.aar/9ffd371a50d6c9b74153a866b744caed/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1a56429cbf5434dd6a893e404a8790fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1a56429cbf5434dd6a893e404a8790fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2117412cb8de19fbedcb562b86b7cde3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2117412cb8de19fbedcb562b86b7cde3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45905c1f717bffc5ce14c7e66fa689d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45905c1f717bffc5ce14c7e66fa689d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/adda03d1d704fb9bb40548bc0365cd4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/adda03d1d704fb9bb40548bc0365cd4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/62095be5a807ff4b04bc0b3922f8ec81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/62095be5a807ff4b04bc0b3922f8ec81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4be11e036b57010a34d7d9be0329da2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4be11e036b57010a34d7d9be0329da2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.6.0.aar/5f8635f187c57e93d8489a71819ed686/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.6.0.aar/5f8635f187c57e93d8489a71819ed686/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/6097d66d049258c2b295d14baa9f393e/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/6097d66d049258c2b295d14baa9f393e/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/cad130c2e230909682cf7d9f2dc27099/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/cad130c2e230909682cf7d9f2dc27099/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/55fd22a454515c2863945eff94946555/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/55fd22a454515c2863945eff94946555/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/afa0748443629cde5713b3b777a8c1ef/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/afa0748443629cde5713b3b777a8c1ef/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/9b3cecec1234cd8f168b9970fe09b953/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/9b3cecec1234cd8f168b9970fe09b953/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/446c699cc96267faf54c0eb660be8314/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/446c699cc96267faf54c0eb660be8314/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/50fd57224e38f38b51afd90b1a3f34ab/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/50fd57224e38f38b51afd90b1a3f34ab/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d9ffb5e9609f2aa5f108c07117423f45/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d9ffb5e9609f2aa5f108c07117423f45/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f0bf339ca258395311e3e91152909f72/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f0bf339ca258395311e3e91152909f72/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5e91f5fe5a50dd716de4972a1cfd5a4d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5e91f5fe5a50dd716de4972a1cfd5a4d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/464a0f1fa4ee1322c421986b1ca003f1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/464a0f1fa4ee1322c421986b1ca003f1/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:20:5-22:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/library-1.2.0.aar/575a220ebf9b3701bfec5f998c569741/AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/library-1.2.0.aar/575a220ebf9b3701bfec5f998c569741/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/b36593c0490560612178fd1eb534e05e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/b36593c0490560612178fd1eb534e05e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.7.aar/4ef9b6a6712bb8dddc51ba3267f5988d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.7.aar/4ef9b6a6712bb8dddc51ba3267f5988d/AndroidManifest.xml:7:5-43
+MERGED from [com.mikepenz:materialdrawer:6.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/materialdrawer-6.0.0.aar/1a7b837aff53daa628e673827f95a232/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:6.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/materialdrawer-6.0.0.aar/1a7b837aff53daa628e673827f95a232/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/19a2214ed4113916d271da9eab1da167/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/19a2214ed4113916d271da9eab1da167/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.6.0.aar/6127f495824c38e1177a3fc45d65fdf2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.6.0.aar/6127f495824c38e1177a3fc45d65fdf2/AndroidManifest.xml:4:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/beta-1.2.4.aar/0fde114785100303420fb32b29f0038d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/beta-1.2.4.aar/0fde114785100303420fb32b29f0038d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.16.aar/2a5cbe06cd1c95948e5768c32414253a/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.16.aar/2a5cbe06cd1c95948e5768c32414253a/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/answers-1.3.12.aar/3c3f4825d4ed2e8db7967303f96a8c8a/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/answers-1.3.12.aar/3c3f4825d4ed2e8db7967303f96a8c8a/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fabric-1.3.16.aar/7fb5a77db2ae8127c0b6f44938fc1fda/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fabric-1.3.16.aar/7fb5a77db2ae8127c0b6f44938fc1fda/AndroidManifest.xml:27:5-43
+MERGED from [com.mikepenz:materialize:1.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/materialize-1.1.1.aar/945c5946603e0e60ddae1c1283fecf66/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/materialize-1.1.1.aar/945c5946603e0e60ddae1c1283fecf66/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.9.5] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/iconics-core-2.9.5.aar/ecbc5ca28ef5b7fa8a2e3d2d5efe01fa/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.9.5] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/iconics-core-2.9.5.aar/ecbc5ca28ef5b7fa8a2e3d2d5efe01fa/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fastadapter-3.0.0.aar/3bea427cbb5f276030fc732150ee2a7e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fastadapter-3.0.0.aar/3bea427cbb5f276030fc732150ee2a7e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-expandable-3.0.0.aar/356b0483acf75d4a1a4d58316fb442e8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-expandable-3.0.0.aar/356b0483acf75d4a1a4d58316fb442e8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/79765eb42aa80ef96974e564fc934796/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/79765eb42aa80ef96974e564fc934796/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/02839078ad13efcfdaa7795a019d9efa/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/02839078ad13efcfdaa7795a019d9efa/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/404f3cd4b19c60f648fb1cbf3e28512c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/404f3cd4b19c60f648fb1cbf3e28512c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a9543da4da973273942effd504145f9d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a9543da4da973273942effd504145f9d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/d8f04a48f092d86a83401a21216c7de5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/d8f04a48f092d86a83401a21216c7de5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.6.0.aar/adf38c3688560d9cab88c627aed4ffe9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.6.0.aar/adf38c3688560d9cab88c627aed4ffe9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.6.0.aar/30122fcd31bf636650fd9497349678f1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.6.0.aar/30122fcd31bf636650fd9497349678f1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/95144f239601b7f3c62542b9badb7137/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/95144f239601b7f3c62542b9badb7137/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/3c44ba85ffd46831cc9f49ea0675741a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/3c44ba85ffd46831cc9f49ea0675741a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/bc5fd15369630a8f3e8787ba3f3be200/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/bc5fd15369630a8f3e8787ba3f3be200/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/c26ca876b928fbc5ba02db2ad10aec7c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/c26ca876b928fbc5ba02db2ad10aec7c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/398cfba05af83db78575896593e6d34d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/398cfba05af83db78575896593e6d34d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/5cbfe2f835d913c90fac77629ee87237/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/5cbfe2f835d913c90fac77629ee87237/AndroidManifest.xml:4:5-43
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaloglu/projects/androtweet_new/app/src/main/AndroidManifest.xml
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/e792a43231ab6512fe8b03833e0fcab9/AndroidManifest.xml:33:13-75
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/c6244f221816a46bf185f84347e0cbbc/AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/e5b29a49ce72a83b0605bff3ab03f11f/AndroidManifest.xml:29:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/9b3cecec1234cd8f168b9970fe09b953/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/9b3cecec1234cd8f168b9970fe09b953/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:20:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:22:9-24:36
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:24:13-33
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:23:13-68
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:26:9-30:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:29:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:27:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:31:9-34:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:34:13-72
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:32:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:38:13-56
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:36:13-79
+activity#com.firebase.ui.auth.ui.phone.PhoneVerificationActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:39:9-43:64
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:42:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:43:13-61
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:40:13-83
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:44:9-47:73
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:45:13-84
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:48:9-51:78
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:51:13-75
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:49:13-89
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:52:9-55:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:55:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:53:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:56:9-60:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:59:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:58:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:57:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:61:9-73:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:63:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:62:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:65:13-72:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:66:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:68:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:68:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:69:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:69:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:71:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.1.0.aar/976f879b5d20d7438585fb8a19c95aaf/AndroidManifest.xml:71:23-78
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/39481c597a760d3b0821c27618eb00a2/AndroidManifest.xml:24:18-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.6.0.aar/0612b70b0ecf0a143e2bc52c6aff39dd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:27:9-28:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:27:85-107
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:27:108-132
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:27:19-84
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:29:9-132
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:29:83-105
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:29:106-130
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:29:18-82
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:30:9-192
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:30:143-165
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:30:166-190
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:30:86-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.6.0.aar/7339f83ba4d4f3086651620a8a5117db/AndroidManifest.xml:30:18-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4fd07d777fd99c7205579bd59adb2f49/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4fd07d777fd99c7205579bd59adb2f49/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1a56429cbf5434dd6a893e404a8790fa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1a56429cbf5434dd6a893e404a8790fa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2117412cb8de19fbedcb562b86b7cde3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2117412cb8de19fbedcb562b86b7cde3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45905c1f717bffc5ce14c7e66fa689d0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45905c1f717bffc5ce14c7e66fa689d0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/adda03d1d704fb9bb40548bc0365cd4c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/adda03d1d704fb9bb40548bc0365cd4c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/62095be5a807ff4b04bc0b3922f8ec81/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/62095be5a807ff4b04bc0b3922f8ec81/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4be11e036b57010a34d7d9be0329da2c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4be11e036b57010a34d7d9be0329da2c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/446c699cc96267faf54c0eb660be8314/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/446c699cc96267faf54c0eb660be8314/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/50fd57224e38f38b51afd90b1a3f34ab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/50fd57224e38f38b51afd90b1a3f34ab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d9ffb5e9609f2aa5f108c07117423f45/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d9ffb5e9609f2aa5f108c07117423f45/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f0bf339ca258395311e3e91152909f72/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f0bf339ca258395311e3e91152909f72/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5e91f5fe5a50dd716de4972a1cfd5a4d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5e91f5fe5a50dd716de4972a1cfd5a4d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/464a0f1fa4ee1322c421986b1ca003f1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/464a0f1fa4ee1322c421986b1ca003f1/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/d6b4309e1d24143c00e9fef9fd270295/AndroidManifest.xml:27:13-51
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-beta1.aar/8853a4244f065e979757f68376f71689/AndroidManifest.xml:26:13-81
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/f320c834c700490287e2b392a12cb60a/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/ac736d3544c176834ac02c760737bdbe/AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/cd59742a99b3867d9cf11692ce0ee7be/AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:25:17-71
+permission#com.zsk.androtweet2.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:27:22-76
+uses-permission#com.zsk.androtweet2.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.zsk.androtweet2
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:34:27-58
+category#com.zsk.androtweet2
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:40:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/3b1e88e226a9a644e8ceb09274f3036d/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8763f8607a0a68b8ab48d122d19e93b8/AndroidManifest.xml:6:79-143
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d12bcc176ce9d420d3b5dfbcfbd3fb0/AndroidManifest.xml:26:13-58
+meta-data#android.arch.core.VERSION
+ADDED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.core:runtime:1.0.0-beta1] /Users/kaloglu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/e0f0a44d91a348768bbcbf31083b85de/AndroidManifest.xml:26:13-53
